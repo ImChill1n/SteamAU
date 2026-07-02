@@ -23,7 +23,7 @@ A simple command-line utility that unlocks all Steam achievements for a selected
 Run the program:
 
 ```text
-Steam achievement.exe
+SteamAU.exe
 ```
 
 Enter the AppID when prompted.
