@@ -1,4 +1,4 @@
-# Steam Achievement Unlocker
+# SteamAU
 
 A simple command-line utility that unlocks all Steam achievements for a selected game using the Steamworks API.
 
