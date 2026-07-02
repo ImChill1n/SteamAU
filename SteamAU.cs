@@ -1,6 +1,6 @@
 using Steamworks;
 
-namespace AchievementUnlocker
+namespace SteamAU
 {
     class Program
     {
