@@ -44,10 +44,6 @@ Example:
 SteamAU.exe 480
 ```
 
-## Notes
-
-The program automatically creates `steam_appid.txt` during execution.
-
 ## License
 
 MIT
