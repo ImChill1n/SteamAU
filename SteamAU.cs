@@ -6,7 +6,7 @@ namespace SteamAU
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("=== Steam Achievement Unlocker ===");
+            Console.WriteLine("=== SteamAU ===");
             Console.WriteLine();
 
             string? appIdInput;
